@@ -177,21 +177,3 @@ authentication and role-based access control.
 
 ---
 
-## Demo Workflow (for judges)
-
-1. Open the landing page → click **"Check My Eligibility"**.
-2. Click a **demo profile chip** (Student / Farmer / Senior Citizen / Unemployed / Low-Income Family) to auto-fill the form.
-3. Click **Check Eligibility** → see matched schemes with explained reasons.
-4. Answer the benefit-status question for each scheme (try mixing "No" and "Verification pending").
-5. View the **Results Dashboard**: eligible/receiving/gap counts, the ELIGIBILITY → APPLICATION → VERIFICATION → BENEFIT flow, and gap cards with recommended next steps.
-6. Click **View Officer Dashboard** → see aggregated totals, benefit-gap-by-district chart, gap-reason pie chart with a recommended intervention, and the High Priority Areas table.
-7. Click **Manage Schemes** → see per-scheme eligibility/receiving/gap stats.
-8. Visit **Impact** → simulated program-level impact metrics, clearly labeled DEMO/SYNTHETIC DATA.
-
-## 3-Minute SIH Presentation Flow
-
-- **0:00–0:30** — Problem: eligible citizens missing benefits; existing portals don't diagnose *why*.
-- **0:30–1:00** — Landing page walkthrough: how SevaSetu works, 4-step pipeline.
-- **1:00–2:00** — Live demo: pick a demo profile → eligibility results with explained matches → answer benefit-status → results dashboard showing a detected gap and recommended action.
-- **2:00–2:40** — Officer dashboard: aggregated stats, gap-reason chart + recommended intervention, High Priority Areas table.
-- **2:40–3:00** — Close: privacy-by-design (synthetic data, anonymized aggregates), and future scope (ML hook, real auth, live aggregation).
